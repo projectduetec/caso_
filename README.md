@@ -1,2 +1,2 @@
 # caso_
-https://github.com/projectduetec/caso_
+https://github.com/projectduetec/caso
